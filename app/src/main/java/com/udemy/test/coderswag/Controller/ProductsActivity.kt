@@ -14,6 +14,8 @@ class ProductsActivity : AppCompatActivity() {
         val categoryType = intent.getStringExtra(EXTRA_CATEGORY)
         println(categoryType)
 
+        println(categoryType)
+
 
 
     }
